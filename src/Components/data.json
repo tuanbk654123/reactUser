@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name":"mr.smit",
+        "tell":"0988883434",
+        "permistion":"1"
+    },
+    {
+        "id":2,
+        "name":"ironman",
+        "tell":"0947463434",
+        "permistion":"2"
+    },
+    {
+        "id":3,
+        "name":"huck",
+        "tell":"0988883434",
+        "permistion":"3"
+    },
+    {
+        "id":4,
+        "name":"captiona",
+        "tell":"0988883434",
+        "permistion":"2"
+    },
+    {
+        "id":5,
+        "name":"qua phu den",
+        "tell":"0988883434",
+        "permistion":"2"
+    }
+]
